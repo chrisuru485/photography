@@ -14,7 +14,7 @@ On this site, you will find a small introduction about me and some of my favouri
 
 ## Setup/Installation Requirements
 
-* Live link to view the project <a href="https://mike-njunge.github.io/photography-website/ ">View photography website</a>
+* Live link to view the project <a href="https://chrisuru485.github.io/photography/ ">View photography website</a>
 
 ## Known Bugs
  So far so good there are no bugs related to this project
